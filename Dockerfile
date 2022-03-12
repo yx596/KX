@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="751347bc-aed8-4e0d-a7c9-e40af00244d7"
-ARG CADDYIndexPage="http://www.niuza.com/fenlei/shangpin/nanshifuzhuang/"
+ARG CADDYIndexPage="xxx-xxx.prod-glb.koyeb.app"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
